@@ -1,1 +1,1 @@
-# starcraft-images
+# starcraft2-images
